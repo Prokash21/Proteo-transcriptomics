@@ -1,0 +1,37 @@
+# Data files
+*.csv
+*.tsv
+*.txt
+
+# Documents
+*.pdf
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.webp
+*.svg
+
+# Common large archives and generated artifacts
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.bz2
+*.xz
+*.iso
+*.dmg
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.rds
+*.arrow
+*.pickle
+*.pkl
