@@ -1,0 +1,16 @@
+{
+  "input_file": "tcga_coad_resLFC_Treatment_Tumor_vs_Normal.csv",
+  "mapped_file": "E:\\DWCT\\OLD\\Others\\PD_Project_2026\\Proteo-transcriptomics\\June_17\\venn_new\\gene_id_mapping\\mapped_resLFC\\mapped_tcga_coad_resLFC_Treatment_Tumor_vs_Normal_mygene.csv",
+  "detected_source_id_type": "ensembl",
+  "id_pattern_counts": {
+    "total_rows": 25036,
+    "ensembl_like": 25036,
+    "entrez_like": 0,
+    "blank": 0,
+    "other": 0
+  },
+  "unique_ids_queried": 25036,
+  "mapped_rows": 20573,
+  "unmapped_rows": 4463,
+  "mapped_unique_gene_ids": 20440
+}

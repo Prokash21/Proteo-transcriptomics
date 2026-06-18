@@ -1,0 +1,16 @@
+{
+  "input_file": "GSE_79_02_resLFC_Treatment_tumor_vs_normal.csv",
+  "mapped_file": "E:\\DWCT\\OLD\\Others\\PD_Project_2026\\Proteo-transcriptomics\\June_17\\venn_new\\gene_id_mapping\\mapped_resLFC\\mapped_GSE_79_02_resLFC_Treatment_tumor_vs_normal_mygene.csv",
+  "detected_source_id_type": "entrez",
+  "id_pattern_counts": {
+    "total_rows": 14763,
+    "ensembl_like": 0,
+    "entrez_like": 14763,
+    "blank": 0,
+    "other": 0
+  },
+  "unique_ids_queried": 14763,
+  "mapped_rows": 14386,
+  "unmapped_rows": 377,
+  "mapped_unique_gene_ids": 14386
+}

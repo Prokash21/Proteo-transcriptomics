@@ -1,0 +1,16 @@
+{
+  "input_file": "GSE_45_OR_02_resLFC_condition_tumor_vs_normal.csv",
+  "mapped_file": "E:\\DWCT\\OLD\\Others\\PD_Project_2026\\Proteo-transcriptomics\\June_17\\venn_new\\gene_id_mapping\\mapped_resLFC\\mapped_GSE_45_OR_02_resLFC_condition_tumor_vs_normal_mygene.csv",
+  "detected_source_id_type": "ensembl",
+  "id_pattern_counts": {
+    "total_rows": 13012,
+    "ensembl_like": 13010,
+    "entrez_like": 0,
+    "blank": 0,
+    "other": 2
+  },
+  "unique_ids_queried": 13010,
+  "mapped_rows": 11806,
+  "unmapped_rows": 1206,
+  "mapped_unique_gene_ids": 11791
+}
