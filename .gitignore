@@ -8,6 +8,9 @@
 
 # Documents
 *.pdf
+*.doc
+*.docx
+*.rtf
 
 # Images
 *.png
@@ -38,3 +41,21 @@
 *.arrow
 *.pickle
 *.pkl
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# R local libraries and install locks
+**/r_lib/
+**/renv/library/
+**/00LOCK*/
+
+# Generated ClusterProfiler analysis outputs
+June_17/Functional_Analysis/ClusterProfiler/**/figures/
+June_17/Functional_Analysis/ClusterProfiler/**/figures_reference/
+June_17/Functional_Analysis/ClusterProfiler/**/logs/
+June_17/Functional_Analysis/ClusterProfiler/**/results/
+June_17/Functional_Analysis/ClusterProfiler/**/manifest/
+June_17/Functional_Analysis/ClusterProfiler/**/documents/
